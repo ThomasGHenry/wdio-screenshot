@@ -1,6 +1,6 @@
 {
   "name": "wdio-screenshot",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Screenshot commands for WebdriverIO",
   "main": "lib/index.js",
   "files": [
@@ -42,7 +42,7 @@
     "fs-extra": "^3.0.1",
     "gm": "^1.22.0",
     "image-size": "^0.5.0",
-    "jimp": "^0.2.24",
+    "jimp": "^0.9.6",
     "lodash": "^4.16.1",
     "uuid": "^3.0.0",
     "which": "^1.2.10"
